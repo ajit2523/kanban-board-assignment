@@ -1,0 +1,14 @@
+.kanban {
+    display: flex;
+    align-items: flex-start;
+    justify-items: center;
+}
+
+.kanban__section {
+    flex-grow: 1;
+    width: 400px;
+    background-color: #c5c5c5;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
