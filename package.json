@@ -12,6 +12,7 @@
     "react-scripts": "5.0.1",
     "sass": "^1.77.0",
     "uuid": "^9.0.1",
+    "vercel": "^34.1.10",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

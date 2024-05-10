@@ -46,7 +46,7 @@ const Kanban = () => {
                 {...provided.droppableProps}
               >
                 <div className="kanban__section__title">
-                  <h3>{section.title}</h3>
+                  <h3 style={{textAlign:'center', color:'#d4d4d4'}}>{section.title}</h3>
                 </div>
                 <div className="kanban__section__content">
                   {section.tasks.map((task, index) => (
